@@ -1,0 +1,14 @@
+https://phonedb.net/
+
+div.sidebar
+  |_div
+    |_a
+      |_img src
+
+div.canvas
+  |_table (first child)
+    |_tr
+      |_td (first child)
+      |   |_strong (innerHTML)
+      |_td (second child)
+          |_a (second child) (innerHTML)
